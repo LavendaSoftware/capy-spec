@@ -63,4 +63,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "simplecov", "~> 0.22.0"
   # https://github.com/vicentllongo/simplecov-json#usage
   spec.add_dependency "simplecov-json", "~> 0.2.3"
+  # https://github.com/bblimke/webmock#rspec
+  spec.add_dependency "webmock", "~> 3.19"
 end
