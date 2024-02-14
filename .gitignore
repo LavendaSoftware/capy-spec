@@ -19,3 +19,4 @@ pkg/
 test/
 .config
 .yardoc
+.rspec_status
